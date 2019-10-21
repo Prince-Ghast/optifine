@@ -15,7 +15,7 @@
 #
 # Entity name          Part name
 # ==================== ======================================================
-# armor_stand          head, headwear, body, left_arm, right_arm, left_leg, right_leg, right, left, waist, base 
+# armor_stand          head, body, left_arm, right_arm, left_leg, right_leg, right, left, waist, base 
 # banner               slate, stand, top
 # bat                  head, body, right_wing, left_wing, outer_right_wing, outer_left_wing
 # bed                  head, foot, leg1 ... leg4
@@ -65,6 +65,7 @@
 # pig                  head, body, leg1 ... leg4
 # polar_bear           head, body, leg1 ... leg4
 # rabbit               left_foot, right_foot, left_thigh, right_thigh, body, left_arm, right_arm, head, right_ear, left_ear, tail, nose
+# ravager              head, body, leg1 ... leg4
 # salmon               body_front, body_back, head, fin_back_1, fin_back_2, tail, fin_right, fin_left
 # sheep                head, body, leg1 ... leg4
 # sheep_wool           head, body, leg1 ... leg4
@@ -82,6 +83,7 @@
 # squid                body, tentacle1 ... tentacle8
 # stray                head, headwear, body, left_arm, right_arm, left_leg, right_leg
 # tnt_minecart         bottom, back, front, right, left, dirt
+# trident              pole
 # tropical_fish_a      body, tail, fin_right, fin_left, fin_top
 # tropical_fish_b      body, tail, fin_right, fin_left, fin_top, fin_bottom
 # vex                  head, headwear, body, left_arm, right_arm, left_leg, right_leg, left_wing, right_wing
